@@ -4,7 +4,7 @@ PILS is a MATLAB package that provides functionalities to simulate the height (o
 Input parameters
 
 
-ambient stratification, crossflow velocity, the size and density of the dispersed phase(s) such as oil droplets, gas bubbles or sediments.
+Ambient stratification, crossflow velocity, the size and density of the dispersed phase(s) such as oil droplets, gas bubbles or sediments.
 
 Processes the Simulator considers	
 
